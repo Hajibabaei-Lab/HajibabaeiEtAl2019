@@ -15,11 +15,11 @@ This repository contains the datasets and scripts used to create the figures in 
   * Fig 5 was generated with Fig5_NMDS.R from taxonomy.matrix.gz . 
   
 4. Supplementary figures were prepared in R as follows:
-  * S1 Fig was generated with FigS1_map.R from Sites.csv . 
-  * S2 Fig was generated with FigS2_TaxSummary.R from taxonomy.matrix.gz . 
-  * S3 Fig was generated with FigS3_rarefaction.R from taxonomy.matrix.gz . 
-  * S4 Fig was generated with FigS4_MedianRichness.R from taxonomy.matrix.gz . 
-  * S5 Fig was generated with FigS5_TotalRichness.R from taxonomy.matrix.gz . 
+  * Fig S1 was generated with FigS1_map.R from Sites.csv . 
+  * Fig S2 was generated with FigS2_TaxSummary.R from taxonomy.matrix.gz . 
+  * Fig S3 was generated with FigS3_rarefaction.R from taxonomy.matrix.gz . 
+  * Fig S4 was generated with FigS4_MedianRichness.R from taxonomy.matrix.gz . 
+  * Fig S5 was generated with FigS5_TotalRichness.R from taxonomy.matrix.gz . 
 
 ## Acknowledgements
 
