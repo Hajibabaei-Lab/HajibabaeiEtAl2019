@@ -4,9 +4,9 @@ This repository contains the datasets and scripts used to create the figures in 
 
 ## Data analysis outline
 
-1. Raw reads were processed using the SCVUC v2.1 pipeline available from https://github.com/EcoBiomics-Zoobiome/SCVUC_COI_metabarcode_pipeline . 
+1. Raw reads are available from the NCBI SRA # PRJNA545426 and were processed using the SCVUC v2.1 pipeline available from https://github.com/EcoBiomics-Zoobiome/SCVUC_COI_metabarcode_pipeline . 
 
-2. The taxonomic assignments are available in taxonomy.matrix.gz .  Site locations are in Sites.csv .
+2. Datasets: The taxonomic assignments are available in taxonomy.matrix.gz .  Site locations are in Sites.csv . FASTA files for the denoised ESVs are in denoised_ESVs_supmat.tar.gz .
 
 3. Figures were pepared in R as follows:
   * Fig 2 was generated with Fig2_multimarker_richness_accumulation.R from taxonomy.matrix.gz . 
