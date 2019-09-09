@@ -1,6 +1,6 @@
 # README
 
-This repository contains the datasets and scripts used to create the figures in Hajibabaei et al., 2019.
+This repository contains the datasets and scripts used to create the figures in Hajibabaei et al., 2019. COI metabarcoding primer choice affects richness and recovery of indicator taxa in freshwater sytems.  PLoS ONE, accepted.
 
 ## Data analysis outline
 
@@ -25,4 +25,4 @@ This repository contains the datasets and scripts used to create the figures in 
 
 I would like to acknowledge funding from the Canadian government from the Genomics Research and Development Initiative (GRDI) Ecobiomics project.
 
-Last updated: May 31, 2019
+Last updated: Sept. 9, 2019.
