@@ -1,6 +1,8 @@
 # README
 
-This repository contains the datasets and scripts used to create the figures in Hajibabaei et al., 2019. COI metabarcoding primer choice affects richness and recovery of indicator taxa in freshwater sytems.  PLoS ONE, accepted.
+This repository contains the datasets and scripts used to create the figures in:
+
+**Hajibabaei et al., 2019. COI metabarcoding primer choice affects richness and recovery of indicator taxa in freshwater sytems.  PLoS ONE, accepted.**
 
 ## Data analysis outline
 
